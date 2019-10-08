@@ -1,0 +1,1 @@
+'{:*^60}'.format("Hello World!")
